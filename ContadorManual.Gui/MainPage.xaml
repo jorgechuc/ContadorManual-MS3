@@ -44,13 +44,13 @@
                 Text="Contar"
                 FontSize="Medium"
                 WidthRequest="130"
-                Clicked="Button_Clicked_1"/>
+                Clicked="OnContarButtonClicked"/>
             
             <Button
                 Text="Reiniciar"
                 FontSize="Medium"
                 WidthRequest="130"
-                Clicked="Button_Clicked"/>
+                Clicked="OnReiniciarButtonClicked"/>
             
         </HorizontalStackLayout>
 
